@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris @flying-buttress
+- 👋 Hi, I’m Chris @chris-whittaker
 - 👀 I’m interested in GIS programming and web mapping
 - 🌱 I’m currently learning the basics of client and server-side programming to put GI data on the web
 - 💞️ I’m looking to collaborate on public interest web mapping projects
